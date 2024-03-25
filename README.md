@@ -1,4 +1,4 @@
-:smiley: Hello, I'm Haytam El Ouarrat, I'm 22, and I'm an AI, robots enthusiast.
+:smiley: Hello, I'm Haytam El Ouarrat, I'm 23, and I'm an AI enthusiast.
 
 :books: I am currently a student engineer at UPSSITECH, Toulouse III.
 
